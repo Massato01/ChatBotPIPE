@@ -1,0 +1,47 @@
+{"intents":[
+  { "tag": "saudacao",
+    "patterns":["Ola","Opa","Oi", "tudo bem"],
+    "responses": ["Oi","Olá"]
+  },
+  { "tag": "despedida",
+    "patterns":["valeu","tchau","Obrigado","tks"],
+    "responses": ["Até breve","Falou"]
+  },
+  { "tag": "data_prova",
+    "patterns":["Quando sera a prova?","A prova será em que dia?"],
+    "responses": ["no dia 26"]
+  },
+  { "tag": "sobre_pipe",
+    "patterns":[
+      "O que é PIPE?", "Me fale sobre o PIPE?", "PIPE?", 
+      "O que é PIPE", "Me fale sobre o PIPE", "PIPE", "O que significa a sigla PIPE?"
+      ],
+    "responses": ["O PIPE-FAPESP apoia a execução de pesquisa científica e/ou tecnológica em micro, pequenas e médias empresas no Estado de São Paulo.",
+    "PIPE é o programa Pesquisa Inovativa em Pequenas Empresas."]
+  },
+  { "tag": "objetivos_pipe",
+    "patterns":[
+      "Qual o objetivo do PIPE?", "Quais são os objetivos do PIPE"
+      ],
+    "responses": ["Apoiar a pesquisa científica e tecnológica para impulsionar a inovação, o desenvolvimento empresarial, a competitividade, a associação entre empresas e academia, o investimento privado e a formação de núcleos de desenvolvimento nas empresas."]
+  },
+  { "tag": "etapas_pipe",
+    "patterns":[
+      "Quais as etapas do PIPE?"
+    ],
+    "responses": ["As quatro fases do Programa PIPE da FAPESP consistem em: verificação da viabilidade técnico-científica (Fase 1, até 9 meses e R$ 300.000), execução da pesquisa (Fase 2, até 24 meses e R$ 1.500.000), aceleração de projetos com interesse de terceiros (PIPE Invest, até 24 meses e R$ 1.500.000) e desenvolvimento comercial e industrial de inovações de pesquisas anteriores, sem apoio da FAPESP ou a partir de pesquisa do PIPE (Fase 3)."]
+  },
+  { "tag": "quando_proposta_pipe",
+    "patterns":[
+      "Quando posso submeter uma proposta ao PIPE?"
+    ],
+    "responses": ["As propostas para o PIPE Fase 1, Fase 2 e PIPE Invest são recebidas em fluxo contínuo durante todo o ano."]
+  },
+  { "tag": "dedicacao_pipe",
+    "patterns":[
+      "Preciso ter dedicação exclusiva ao projeto?"
+    ],
+    "responses": ["Caso o pesquisador principal seja pago pela empresa, é exigida uma dedicação mínima de 24 horas semanais ao projeto, mas se ele solicitar a Bolsa de Pesquisa em Pequena Empresa (Bolsa PE), a dedicação mínima deve ser de 40 horas semanais."]
+  }
+]
+}
