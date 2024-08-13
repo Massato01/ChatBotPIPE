@@ -42,6 +42,12 @@
       "Preciso ter dedicação exclusiva ao projeto?"
     ],
     "responses": ["Caso o pesquisador principal seja pago pela empresa, é exigida uma dedicação mínima de 24 horas semanais ao projeto, mas se ele solicitar a Bolsa de Pesquisa em Pequena Empresa (Bolsa PE), a dedicação mínima deve ser de 40 horas semanais."]
+  },
+  { "tag": "informacoes_pipe",
+    "patterns":[
+      "Como posso obter mais informações sobre o PIPE?"
+    ],
+    "responses": ["No site do FAPESP na sessão PIPE apresenta em detalhes o programa, incluindo o texto completo das normas e as chamadas vigentes."]
   }
 ]
 }
