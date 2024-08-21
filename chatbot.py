@@ -28,10 +28,10 @@ class ChatBot:
     lemmatizer = WordNetLemmatizer()
 
     def createModel(self):
-        nltk.download('punkt')
-        nltk.download('punkt_tab')
-        nltk.download('wordnet')
-        nltk.download('omw-1.4')
+        # nltk.download('punkt')
+        # nltk.download('punkt_tab')
+        # nltk.download('wordnet')
+        # nltk.download('omw-1.4')
 
         data_file = open('intents.json', encoding="utf8").read()
         self.intents = json.loads(data_file)
