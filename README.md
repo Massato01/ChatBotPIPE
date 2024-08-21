@@ -64,4 +64,4 @@ Desenvolver um chatbot que ajuda uma empresa e/ou um pesquisador a submeter um p
 
 ## Link para vídeo de demonstração:
 
-!Watch the video(placeholder-img-demo-chatbot.png)(https://youtu.be/I6kSvH6nz_0)
+[![Watch the video](placeholder-img-demo-chatbot.png)](https://youtu.be/I6kSvH6nz_0)
