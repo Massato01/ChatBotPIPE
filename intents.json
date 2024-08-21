@@ -48,6 +48,12 @@
       "Como posso obter mais informações sobre o PIPE?"
     ],
     "responses": ["No site do FAPESP na sessão PIPE apresenta em detalhes o programa, incluindo o texto completo das normas e as chamadas vigentes."]
+  },
+  { "tag": "avaliaca_projetos_pipe",
+  "patterns":[
+    "Quem avalia os projetos?"
+  ],
+  "responses": ["A FAPESP avalia projetos PIPE por meio de especialistas, pareceres confidenciais e comitês de avaliação, culminando em uma recomendação final à Diretoria Científica para a decisão."]
   }
 ]
 }
