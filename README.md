@@ -16,10 +16,10 @@ Desenvolver um chatbot que ajuda uma empresa e/ou um pesquisador a submeter um p
 - Figura com o Dialogo proposto
 - link para um vídeo de até 2 minutos mostrando o uso do chatbot com pelo menos três perguntas.
 
-## Demo Figura com diálogo
+## Figura com estrutura e diálogo
 
-[![Watch the video](imagem-demo.png)]
+![figura-dialogo](imagem-demo.png)
 
 ## Vídeo de demonstração (YouTube):
 
-[![Watch the video](placeholder-img-demo-chatbot.png)](https://youtu.be/I6kSvH6nz_0)
+[![video-demo](placeholder-img-demo-chatbot.png)](https://youtu.be/I6kSvH6nz_0)
