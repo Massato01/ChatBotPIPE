@@ -4,7 +4,7 @@
 
 Carlos Massato Horibe Chinen - 22.221.010-6
 
-Vinicius Alves Pedro - xx.xxx.xxx-x
+Vinicius Alves Pedro - 22.221.036-1
 
 ## Objetivo:
 
